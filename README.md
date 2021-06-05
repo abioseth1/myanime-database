@@ -1,9 +1,16 @@
-# Getting Started with Create React App
+# A simple anime database 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Looking for your top trending anime, lookup at
+
+https://peaceful-euclid-c9f47a.netlify.app/
+
 
 ## Available Scripts
 
+
+
+
+<hr>
 In the project directory, you can run:
 
 ### `npm start`
