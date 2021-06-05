@@ -7,7 +7,7 @@ https://peaceful-euclid-c9f47a.netlify.app/
 
 
 
-https://github.com/abioseth1/myanime-database/blob/main/page.JPG
+<img src = "https://github.com/abioseth1/myanime-database/blob/main/page.JPG" style = "size : 30%">
 
 
 
