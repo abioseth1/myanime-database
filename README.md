@@ -8,14 +8,17 @@ https://peaceful-euclid-c9f47a.netlify.app/
 
 
 
-<img href = "https://github.com/abioseth1/myanime-database/blob/main/page.JPG" style = "width : 40%"/>
+<img href = "https://github.com/abioseth1/myanime-database/blob/main/page.JPG" style = "width : 40%">
+
+
+
+<hr>
 
 ## Available Scripts
 
 
 
 
-<hr>
 In the project directory, you can run:
 
 ### `npm start`
