@@ -8,7 +8,8 @@ https://peaceful-euclid-c9f47a.netlify.app/
 
 
 
-<a href = "https://github.com/abioseth1/myanime-database/blob/main/page.JPG" style = "width : 40%">
+<a href = "https://github.com/abioseth1/myanime-database/blob/main/page.JPG" style = "width : 40%"/>
+
 ## Available Scripts
 
 
